@@ -1,5 +1,4 @@
-import Proxy from './proxy';
+export { default as Proxy } from './proxy';
 
-const proxy = new Proxy();
-
-console.log(proxy.calculate('rancher-monitoring-coredns'));
+export * from './proxy';
+export * from './actions';
