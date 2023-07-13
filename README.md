@@ -4,6 +4,8 @@
 
 > utility for interacting with kubernetes service rancher proxy
 
+![](assets/rancher-proxy.png)
+
 Please ★ this repo if you found it useful ★ ★ ★
 
 ## Installation
